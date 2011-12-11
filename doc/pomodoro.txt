@@ -1,3 +1,4 @@
+- NG: way of working
 - NG: set up Ruby project
 - NG: first user story
 - NG: first backlog
