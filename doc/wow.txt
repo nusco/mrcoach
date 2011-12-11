@@ -1,0 +1,4 @@
+- We work in 21' pomodori, and track them in pomodoro.txt
+- We keep in contact via Skype, at least once a week
+- We work from the backlog and the Lean Startup Canvas
+- We have a target of releasing early and often
