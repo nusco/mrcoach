@@ -1,0 +1,4 @@
+For passionate achievers who want to learn activities like running or juggling,
+Mr. Coach is a web site that guides you and tracks your progress.
+
+Unlike existing resources, Mr Coach guides you through a ladder of activities and actively gives you feedback.
