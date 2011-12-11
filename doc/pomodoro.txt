@@ -1,3 +1,4 @@
+- NG: minimal business canvas
 - NG: set up business canvas
 - NG: way of working
 - NG: set up Ruby project
